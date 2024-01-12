@@ -1,0 +1,1977 @@
+[
+	{
+		"tournament_name": "Australian Open - Men",
+		"last_fetched": "2024-01-12 12:38",
+		"events": [
+			{
+				"event_name": "Alexei Popyrin AUS v Marc Polmans AUS",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Alexei Popyrin AUS",
+						"odds": 1.18
+					},
+					{
+						"outcome_name": "Maarc Polmns AUS",
+						"odds": 4.75
+					}
+				]
+			},
+			{
+				"event_name": "Yannick Hanfmann GER v Gael Monfils FRA",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Yannick Hanfmann GER",
+						"odds": 2.45
+					},
+					{
+						"outcome_name": "Gael Monfils FRA",
+						"odds": 1.53
+					}
+				]
+			},
+			{
+				"event_name": "Andy Murray GBR v Tomas Martin Etcheverry ARG",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Andy Murray GBR",
+						"odds": 1.7
+					},
+					{
+						"outcome_name": "Tomas Martin Etcheverry ARG",
+						"odds": 2.1
+					}
+				]
+			},
+			{
+				"event_name": "Adrian Mannarino FRA v Stan Wawrinka SUI",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Adrian Mannarino FRA",
+						"odds": 1.36
+					},
+					{
+						"outcome_name": "Stan Wawrinka SUI",
+						"odds": 3.1
+					}
+				]
+			},
+			{
+				"event_name": "Alexander Shevchenko RUS v Jaume Munar ESP",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Alexander Shevchenko RUS",
+						"odds": 1.29
+					},
+					{
+						"outcome_name": "Jaume Munar ESP",
+						"odds": 3.6
+					}
+				]
+			},
+			{
+				"event_name": "Christopher O'Connell AUS v Cristian Garin CHI",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Christopher O'Connell AUS",
+						"odds": 1.45
+					},
+					{
+						"outcome_name": "Cristian Garin CHI",
+						"odds": 2.7
+					}
+				]
+			},
+			{
+				"event_name": "Roberto Bautista-Agut ESP v Ben Shelton USA",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Roberto Bautista-Agut ESP",
+						"odds": 3.25
+					},
+					{
+						"outcome_name": "Ben Shelton USA",
+						"odds": 1.33
+					}
+				]
+			},
+			{
+				"event_name": "Taylor Fritz USA v Facundo Diaz Acosta ARG",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Taylor Fritz USA",
+						"odds": 1.04
+					},
+					{
+						"outcome_name": "Facundo Diaz Acosta ARG",
+						"odds": 10.5
+					}
+				]
+			},
+			{
+				"event_name": "Roberto Carballes Baena ESP v Borna Gojo CRO",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Roberto Carballes Baena ESP",
+						"odds": 2.4
+					},
+					{
+						"outcome_name": "Borna Gojo CRO",
+						"odds": 1.55
+					}
+				]
+			},
+			{
+				"event_name": "Fabian Marozsan HUN v Marin Cilic CRO",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Fabian Marozsan HUN",
+						"odds": 1.7
+					},
+					{
+						"outcome_name": "Marin Cilic CRO",
+						"odds": 2.1
+					}
+				]
+			},
+			{
+				"event_name": "Lorenzo Musetti ITA v Benjamin Bonzi FRA",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Lorenzo Musetti ITA",
+						"odds": 1.4
+					},
+					{
+						"outcome_name": "Benjamin Bonzi FRA",
+						"odds": 2.9
+					}
+				]
+			},
+			{
+				"event_name": "James Duckworth AUS v Luca Van Assche FRA",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "James Duckworth AUS",
+						"odds": 2.2
+					},
+					{
+						"outcome_name": "Luca Van Assche FRA",
+						"odds": 1.65
+					}
+				]
+			},
+			{
+				"event_name": "Aleksandar Vukic AUS v Jordan Thompson AUS",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Aleksandar Vukic AUS",
+						"odds": 2.9
+					},
+					{
+						"outcome_name": "Jordan Thompson AUS",
+						"odds": 1.4
+					}
+				]
+			},
+			{
+				"event_name": "Matteo Berrettini ITA v Stefanos Tsitsipas GRE",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Matteo Berrettini ITA",
+						"odds": 3.6
+					},
+					{
+						"outcome_name": "Stefanos Tsitsipas GRE",
+						"odds": 1.29
+					}
+				]
+			},
+			{
+				"event_name": "Jannik Sinner ITA v Botic Van de Zandschulp NED",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Jannik Sinner ITA",
+						"odds": 1.07
+					},
+					{
+						"outcome_name": "Botic Van de Zandschulp NED",
+						"odds": 7.5
+					}
+				]
+			},
+			{
+				"event_name": "Daniel Elahi Galan COL v Jason Kubler AUS",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Daniel Elahi Galan COL",
+						"odds": 2.45
+					},
+					{
+						"outcome_name": "Jason Kubler AUS",
+						"odds": 1.53
+					}
+				]
+			},
+			{
+				"event_name": "J.J. Wolf USA v Sebastian Baez ARG",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "J.J. Wolf USA",
+						"odds": 1.6
+					},
+					{
+						"outcome_name": "Sebastian Baez ARG",
+						"odds": 2.3
+					}
+				]
+			},
+			{
+				"event_name": "Frances Tiafoe USA v Borna Coric CRO",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Frances Tiafoe USA",
+						"odds": 1.5
+					},
+					{
+						"outcome_name": "Borna Coric CRO",
+						"odds": 2.55
+					}
+				]
+			},
+			{
+				"event_name": "Daniel Altmaier GER v Karen Khachanov RUS",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Daniel Altmaier GER",
+						"odds": 4.33
+					},
+					{
+						"outcome_name": "Karen Khachanov RUS",
+						"odds": 1.2
+					}
+				]
+			},
+			{
+				"event_name": "Alex de Minaur AUS v Milos Raonic CAN",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Alex de Minaur AUS",
+						"odds": 1.12
+					},
+					{
+						"outcome_name": "Milos Raonic CAN",
+						"odds": 6
+					}
+				]
+			},
+			{
+				"event_name": "Matteo Arnaldi ITA v Adam Walton AUS",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Matteo Arnaldi ITA",
+						"odds": 1.22
+					},
+					{
+						"outcome_name": "Adam Walton AUS",
+						"odds": 4.1
+					}
+				]
+			},
+			{
+				"event_name": "Pavel Kotov RUS v Arthur Rinderknech FRA",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Pavel Kotov RUS",
+						"odds": 1.57
+					},
+					{
+						"outcome_name": "Arthur Rinderknech FRA",
+						"odds": 2.35
+					}
+				]
+			},
+			{
+				"event_name": "Christopher Eubanks USA v Taro Daniel JPN",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Christopher Eubanks USA",
+						"odds": 2.1
+					},
+					{
+						"outcome_name": "Taro Daniel JPN",
+						"odds": 1.73
+					}
+				]
+			},
+			{
+				"event_name": "Thiago Seyboth Wild BRA v Andrey Rublev RUS",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Thiago Seyboth Wild BRA",
+						"odds": 11
+					},
+					{
+						"outcome_name": "Andrey Rublev RUS",
+						"odds": 1.03
+					}
+				]
+			},
+			{
+				"event_name": "Holger Vitus Nodskov Rune DEN v Yoshihito Nishioka JPN",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Holger Vitus Nodskov Rune DEN",
+						"odds": 1.12
+					},
+					{
+						"outcome_name": "Yoshihito Nishioka JPN",
+						"odds": 6
+					}
+				]
+			},
+			{
+				"event_name": "Laslo Djere SRB v Arthur Cazaux FRA",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Laslo Djere SRB",
+						"odds": 1.75
+					},
+					{
+						"outcome_name": "Arthur Cazaux FRA",
+						"odds": 2.05
+					}
+				]
+			},
+			{
+				"event_name": "Arthur Fils FRA v Jiri Vesely CZE",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Arthur Fils FRA",
+						"odds": 1.06
+					},
+					{
+						"outcome_name": "Jiri Vesely CZE",
+						"odds": 8.5
+					}
+				]
+			},
+			{
+				"event_name": "Roman Safiullin RUS v Tallon Griekspoor NED",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Roman Safiullin RUS",
+						"odds": 1.48
+					},
+					{
+						"outcome_name": "Tallon Griekspoor NED",
+						"odds": 2.6
+					}
+				]
+			},
+			{
+				"event_name": "Zhizhen Zhang CHN v Federico Coria ARG",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Zhizhen Zhang CHN",
+						"odds": 1.07
+					},
+					{
+						"outcome_name": "Federico Coria ARG",
+						"odds": 8
+					}
+				]
+			},
+			{
+				"event_name": "Grigor Dimitrov BUL v Marton Fucsovics HUN",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Grigor Dimitrov BUL",
+						"odds": 1.18
+					},
+					{
+						"outcome_name": "Marton Fucsovics HUN",
+						"odds": 4.5
+					}
+				]
+			},
+			{
+				"event_name": "Sebastian Ofner AUT v Thanasi Kokkinakis AUS",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Sebastian Ofner AUT",
+						"odds": 1.75
+					},
+					{
+						"outcome_name": "Thanasi Kokkinakis AUS",
+						"odds": 2.05
+					}
+				]
+			},
+			{
+				"event_name": "Maximilian Marterer GER v Nuno Borges POR",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Maximilian Marterer GER",
+						"odds": 1.73
+					},
+					{
+						"outcome_name": "Nuno Borges POR",
+						"odds": 2.1
+					}
+				]
+			},
+			{
+				"event_name": "Constant Lestienne FRA v Alejandro Davidovich Fokina ESP",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Constant Lestienne FRA",
+						"odds": 4.5
+					},
+					{
+						"outcome_name": "Alejandro Davidovich Fokina ESP",
+						"odds": 1.18
+					}
+				]
+			},
+			{
+				"event_name": "Felix Auger-Aliassime CAN v Dominic Thiem AUT",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Felix Auger-Aliassime CAN",
+						"odds": 1.5
+					},
+					{
+						"outcome_name": "Dominic Thiem AUT",
+						"odds": 2.55
+					}
+				]
+			},
+			{
+				"event_name": "Patrick Kypson USA v Emil Ruusuvuori FIN",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Patrick Kypson USA",
+						"odds": 7
+					},
+					{
+						"outcome_name": "Emil Ruusuvuori FIN",
+						"odds": 1.09
+					}
+				]
+			},
+			{
+				"event_name": "Alexander Zverev GER v Dominik Koepfer GER",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Alexander Zverev GER",
+						"odds": 1.06
+					},
+					{
+						"outcome_name": "Dominik Koepfer GER",
+						"odds": 8.5
+					}
+				]
+			},
+			{
+				"event_name": "James McCabe AUS v Alex Michelsen USA",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "James McCabe AUS",
+						"odds": 4.4
+					},
+					{
+						"outcome_name": "Alex Michelsen USA",
+						"odds": 1.2
+					}
+				]
+			},
+			{
+				"event_name": "Bernabe Zapata Miralles ESP v Jiri Lehecka CZE",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Bernabe Zapata Miralles ESP",
+						"odds": 8.5
+					},
+					{
+						"outcome_name": "Jiri Lehecka CZE",
+						"odds": 1.06
+					}
+				]
+			},
+			{
+				"event_name": "Cameron Norrie GBR v Juan Pablo Varillas PER",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Cameron Norrie GBR",
+						"odds": 1.08
+					},
+					{
+						"outcome_name": "Juan Pablo Varillas PER",
+						"odds": 7.5
+					}
+				]
+			},
+			{
+				"event_name": "Albert Ramos-Vinolas ESP v Casper Ruud NOR",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Albert Ramos-Vinolas ESP",
+						"odds": 10.5
+					},
+					{
+						"outcome_name": "Casper Ruud NOR",
+						"odds": 1.04
+					}
+				]
+			},
+			{
+				"event_name": "Tommy Paul USA v Gregoire Barrere FRA",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Tommy Paul USA",
+						"odds": 1.09
+					},
+					{
+						"outcome_name": "Gregoire Barrere FRA",
+						"odds": 7
+					}
+				]
+			},
+			{
+				"event_name": "Marcos Giron USA v Jack Draper GBR",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Marcos Giron USA",
+						"odds": 3.2
+					},
+					{
+						"outcome_name": "Jack Draper GBR",
+						"odds": 1.33
+					}
+				]
+			},
+			{
+				"event_name": "Miomir Kecmanovic SRB v Yosuke Watanuki JPN",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Miomir Kecmanovic SRB",
+						"odds": 1.33
+					},
+					{
+						"outcome_name": "Yosuke Watanuki JPN",
+						"odds": 3.25
+					}
+				]
+			},
+			{
+				"event_name": "Rinky Hijikata AUS v Jan-Lennard Struff GER",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Rinky Hijikata AUS",
+						"odds": 2.2
+					},
+					{
+						"outcome_name": "Jan-Lennard Struff GER",
+						"odds": 1.65
+					}
+				]
+			},
+			{
+				"event_name": "Mackenzie McDonald USA v Juncheng Shang CHN",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Mackenzie McDonald USA",
+						"odds": 2.15
+					},
+					{
+						"outcome_name": "Juncheng Shang CHN",
+						"odds": 1.67
+					}
+				]
+			},
+			{
+				"event_name": "Daniel Evans GBR v Lorenzo Sonego ITA",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Daniel Evans GBR",
+						"odds": 2.15
+					},
+					{
+						"outcome_name": "Lorenzo Sonego ITA",
+						"odds": 1.67
+					}
+				]
+			},
+			{
+				"event_name": "Richard Gasquet FRA v Carlos Alcaraz ESP",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Richard Gasquet FRA",
+						"odds": 12
+					},
+					{
+						"outcome_name": "Carlos Alcaraz ESP",
+						"odds": 1.02
+					}
+				]
+			},
+			{
+				"event_name": "Novak Djokovic SRB v Dino Prizmic CRO",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Novak Djokovic SRB",
+						"odds": 1.02
+					},
+					{
+						"outcome_name": "Dino Prizmic CRO",
+						"odds": 12
+					}
+				]
+			},
+			{
+				"event_name": "Dane Sweeny AUS v Francisco Cerundolo ARG",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Dane Sweeny AUS",
+						"odds": 3.1
+					},
+					{
+						"outcome_name": "Francisco Cerundolo ARG",
+						"odds": 1.36
+					}
+				]
+			},
+			{
+				"event_name": "Jesper De Jong NED v Pedro Cachin ARG",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Jesper De Jong NED",
+						"odds": 1.5
+					},
+					{
+						"outcome_name": "Pedro Cachin ARG",
+						"odds": 2.55
+					}
+				]
+			},
+			{
+				"event_name": "Alejandro Tabilo CHI v Aleksandar Kovacevic USA",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Alejandro Tabilo CHI",
+						"odds": 1.75
+					},
+					{
+						"outcome_name": "Aleksandar Kovacevic USA",
+						"odds": 2.05
+					}
+				]
+			},
+			{
+				"event_name": "Flavio Cobolli ITA v Nicolas Jarry CHI",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Flavio Cobolli ITA",
+						"odds": 3.75
+					},
+					{
+						"outcome_name": "Nicolas Jarry CHI",
+						"odds": 1.27
+					}
+				]
+			},
+			{
+				"event_name": "Sebastian Korda USA v Vit Kopriva CZE",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Sebastian Korda USA",
+						"odds": 1.09
+					},
+					{
+						"outcome_name": "Vit Kopriva CZE",
+						"odds": 7
+					}
+				]
+			},
+			{
+				"event_name": "Quentin Halys FRA v Lloyd Harris RSA",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Quentin Halys FRA",
+						"odds": 2.9
+					},
+					{
+						"outcome_name": "Lloyd Harris RSA",
+						"odds": 1.4
+					}
+				]
+			},
+			{
+				"event_name": "Denis Shapovalov CAN v Jakub Mensik CZE",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Denis Shapovalov CAN",
+						"odds": 2.05
+					},
+					{
+						"outcome_name": "Jakub Mensik CZE",
+						"odds": 1.75
+					}
+				]
+			},
+			{
+				"event_name": "Omar Jasika AUS v Hubert Hurkacz POL",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Omar Jasika AUS",
+						"odds": 11
+					},
+					{
+						"outcome_name": "Hubert Hurkacz POL",
+						"odds": 1.03
+					}
+				]
+			}
+		]
+	},
+	{
+		"tournament_name": "Australian Open - Women",
+		"last_fetched": "2024-01-12 12:38",
+		"events": [
+			{
+				"event_name": "Iga Swiatek POL v Sofia Kenin USA",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Iga Swiatek POL",
+						"odds": 1.03
+					},
+					{
+						"outcome_name": "Sofia Kenin USA",
+						"odds": 11
+					}
+				]
+			},
+			{
+				"event_name": "Danielle Collins USA v Angelique Kerber GER",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Danielle Collins USA",
+						"odds": 1.4
+					},
+					{
+						"outcome_name": "Angelique Kerber GER",
+						"odds": 2.9
+					}
+				]
+			},
+			{
+				"event_name": "Linda Noskova CZE v Marie Bouzkova CZE",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Linda Noskova CZE",
+						"odds": 2.35
+					},
+					{
+						"outcome_name": "Marie Bouzkova CZE",
+						"odds": 1.57
+					}
+				]
+			},
+			{
+				"event_name": "Elina Svitolina UKR v Taylah Preston AUS",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Elina Svitolina UKR",
+						"odds": 1.06
+					},
+					{
+						"outcome_name": "Taylah Preston AUS",
+						"odds": 8.5
+					}
+				]
+			},
+			{
+				"event_name": "Kayla Day USA v Viktoriya Tomova BUL",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Kayla Day USA",
+						"odds": 2.45
+					},
+					{
+						"outcome_name": "Viktoriya Tomova BUL",
+						"odds": 1.53
+					}
+				]
+			},
+			{
+				"event_name": "Jaqueline Cristian ROU v Katerina Siniakova CZE",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Jaqueline Cristian ROU",
+						"odds": 3.25
+					},
+					{
+						"outcome_name": "Katerina Siniakova CZE",
+						"odds": 1.33
+					}
+				]
+			},
+			{
+				"event_name": "Viktorija Golubic SUI v Veronika Kudermetova RUS",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Viktorija Golubic SUI",
+						"odds": 3.4
+					},
+					{
+						"outcome_name": "Veronika Kudermetova RUS",
+						"odds": 1.3
+					}
+				]
+			},
+			{
+				"event_name": "Jelena Ostapenko LAT v Kimberly Birrell AUS",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Jelena Ostapenko LAT",
+						"odds": 1.13
+					},
+					{
+						"outcome_name": "Kimberly Birrell AUS",
+						"odds": 5.75
+					}
+				]
+			},
+			{
+				"event_name": "Petra Martic CRO v Ajla Tomljanovic AUS",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Petra Martic CRO",
+						"odds": 1.57
+					},
+					{
+						"outcome_name": "Ajla Tomljanovic AUS",
+						"odds": 2.35
+					}
+				]
+			},
+			{
+				"event_name": "Greet Minnen BEL v Clara Tauson DEN",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Greet Minnen BEL",
+						"odds": 2.7
+					},
+					{
+						"outcome_name": "Clara Tauson DEN",
+						"odds": 1.45
+					}
+				]
+			},
+			{
+				"event_name": "Camila Giorgi ITA v Victoria Azarenka BLR",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Camila Giorgi ITA",
+						"odds": 2.9
+					},
+					{
+						"outcome_name": "Victoria Azarenka BLR",
+						"odds": 1.4
+					}
+				]
+			},
+			{
+				"event_name": "Emma Navarro USA v Xiyu Wang CHN",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Emma Navarro USA",
+						"odds": 1.53
+					},
+					{
+						"outcome_name": "Xiyu Wang CHN",
+						"odds": 2.45
+					}
+				]
+			},
+			{
+				"event_name": "Yanina Wickmayer BEL v Varvara Gracheva FRA",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Yanina Wickmayer BEL",
+						"odds": 2.1
+					},
+					{
+						"outcome_name": "Varvara Gracheva FRA",
+						"odds": 1.7
+					}
+				]
+			},
+			{
+				"event_name": "Elena Rybakina KAZ v Karolina Pliskova CZE",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Elena Rybakina KAZ",
+						"odds": 1.15
+					},
+					{
+						"outcome_name": "Karolina Pliskova CZE",
+						"odds": 5.25
+					}
+				]
+			},
+			{
+				"event_name": "Cristina Bucsa ESP v Anna Blinkova RUS",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Cristina Bucsa ESP",
+						"odds": 1.7
+					},
+					{
+						"outcome_name": "Anna Blinkova RUS",
+						"odds": 2.1
+					}
+				]
+			},
+			{
+				"event_name": "Tatjana Maria GER v Maria Camila Osorio Serrano COL",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Tatjana Maria GER",
+						"odds": 2.1
+					},
+					{
+						"outcome_name": "Maria Camila Osorio Serrano COL",
+						"odds": 1.7
+					}
+				]
+			},
+			{
+				"event_name": "Diana Shnaider RUS v Jasmine Paolini ITA",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Diana Shnaider RUS",
+						"odds": 2.7
+					},
+					{
+						"outcome_name": "Jasmine Paolini ITA",
+						"odds": 1.45
+					}
+				]
+			},
+			{
+				"event_name": "Anhelina Kalinina UKR v Arantxa Rus NED",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Anhelina Kalinina UKR",
+						"odds": 1.57
+					},
+					{
+						"outcome_name": "Arantxa Rus NED",
+						"odds": 2.35
+					}
+				]
+			},
+			{
+				"event_name": "Sloane Stephens USA v Olivia Gadecki AUS",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Sloane Stephens USA",
+						"odds": 1.48
+					},
+					{
+						"outcome_name": "Olivia Gadecki AUS",
+						"odds": 2.6
+					}
+				]
+			},
+			{
+				"event_name": "Peyton Stearns USA v Daria Kasatkina RUS",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Peyton Stearns USA",
+						"odds": 3.1
+					},
+					{
+						"outcome_name": "Daria Kasatkina RUS",
+						"odds": 1.36
+					}
+				]
+			},
+			{
+				"event_name": "Qinwen Zheng CHN v Ashlyn Krueger USA",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Qinwen Zheng CHN",
+						"odds": 1.15
+					},
+					{
+						"outcome_name": "Ashlyn Krueger USA",
+						"odds": 5
+					}
+				]
+			},
+			{
+				"event_name": "Katie Boulter GBR v Yue Yuan CHN",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Katie Boulter GBR",
+						"odds": 1.67
+					},
+					{
+						"outcome_name": "Yue Yuan CHN",
+						"odds": 2.15
+					}
+				]
+			},
+			{
+				"event_name": "Emma Raducanu GBR v Shelby Rogers USA",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Emma Raducanu GBR",
+						"odds": 1.27
+					},
+					{
+						"outcome_name": "Shelby Rogers USA",
+						"odds": 3.75
+					}
+				]
+			},
+			{
+				"event_name": "Yafan Wang CHN v Sorana Cirstea ROU",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Yafan Wang CHN",
+						"odds": 3.1
+					},
+					{
+						"outcome_name": "Sorana Cirstea ROU",
+						"odds": 1.36
+					}
+				]
+			},
+			{
+				"event_name": "Lin Zhu CHN v Oceane Dodin FRA",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Lin Zhu CHN",
+						"odds": 1.29
+					},
+					{
+						"outcome_name": "Oceane Dodin FRA",
+						"odds": 3.6
+					}
+				]
+			},
+			{
+				"event_name": "Aleksandra Krunic SRB v Clara Burel FRA",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Aleksandra Krunic SRB",
+						"odds": 7.5
+					},
+					{
+						"outcome_name": "Clara Burel FRA",
+						"odds": 1.08
+					}
+				]
+			},
+			{
+				"event_name": "Maria Sakkari GRE v Nao Hibino JPN",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Maria Sakkari GRE",
+						"odds": 1.07
+					},
+					{
+						"outcome_name": "Nao Hibino JPN",
+						"odds": 8
+					}
+				]
+			},
+			{
+				"event_name": "Zhuoxuan Bai CHN v Elina Avanesyan RUS",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Zhuoxuan Bai CHN",
+						"odds": 1.6
+					},
+					{
+						"outcome_name": "Elina Avanesyan RUS",
+						"odds": 2.3
+					}
+				]
+			},
+			{
+				"event_name": "Marta Kostyuk UKR v Claire Liu USA",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Marta Kostyuk UKR",
+						"odds": 1.4
+					},
+					{
+						"outcome_name": "Claire Liu USA",
+						"odds": 2.9
+					}
+				]
+			},
+			{
+				"event_name": "Mayar Sherif EGY v Elise Mertens BEL",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Mayar Sherif EGY",
+						"odds": 5
+					},
+					{
+						"outcome_name": "Elise Mertens BEL",
+						"odds": 1.15
+					}
+				]
+			},
+			{
+				"event_name": "Magda Linette POL v Caroline Wozniacki DEN",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Magda Linette POL",
+						"odds": 2.25
+					},
+					{
+						"outcome_name": "Caroline Wozniacki DEN",
+						"odds": 1.62
+					}
+				]
+			},
+			{
+				"event_name": "Linda Fruhvirtova CZE v Beatriz Haddad Maia BRA",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Linda Fruhvirtova CZE",
+						"odds": 4.6
+					},
+					{
+						"outcome_name": "Beatriz Haddad Maia BRA",
+						"odds": 1.18
+					}
+				]
+			},
+			{
+				"event_name": "Caroline Garcia FRA v Naomi Osaka JPN",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Caroline Garcia FRA",
+						"odds": 1.87
+					},
+					{
+						"outcome_name": "Naomi Osaka JPN",
+						"odds": 1.9
+					}
+				]
+			},
+			{
+				"event_name": "Magdalena Frech POL v Daria Saville AUS",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Magdalena Frech POL",
+						"odds": 1.85
+					},
+					{
+						"outcome_name": "Daria Saville AUS",
+						"odds": 1.91
+					}
+				]
+			},
+			{
+				"event_name": "Kaja Juvan SLO v Anastasia Potapova RUS",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Kaja Juvan SLO",
+						"odds": 3.2
+					},
+					{
+						"outcome_name": "Anastasia Potapova RUS",
+						"odds": 1.33
+					}
+				]
+			},
+			{
+				"event_name": "Anna Karolina Schmiedlova SVK v Coco Gauff USA",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Anna Karolina Schmiedlova SVK",
+						"odds": 11
+					},
+					{
+						"outcome_name": "Coco Gauff USA",
+						"odds": 1.03
+					}
+				]
+			},
+			{
+				"event_name": "Mirra Andreeva RUS v Bernarda Pera USA",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Mirra Andreeva RUS",
+						"odds": 1.15
+					},
+					{
+						"outcome_name": "Bernarda Pera USA",
+						"odds": 5
+					}
+				]
+			},
+			{
+				"event_name": "Kamilla Rakhimova RUS v Emina Bektas USA",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Kamilla Rakhimova RUS",
+						"odds": 2.05
+					},
+					{
+						"outcome_name": "Emina Bektas USA",
+						"odds": 1.75
+					}
+				]
+			},
+			{
+				"event_name": "Diane Parry FRA v Xinyu Wang CHN",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Diane Parry FRA",
+						"odds": 3.1
+					},
+					{
+						"outcome_name": "Xinyu Wang CHN",
+						"odds": 1.36
+					}
+				]
+			},
+			{
+				"event_name": "Ekaterina Alexandrova RUS v Laura Siegemund GER",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Ekaterina Alexandrova RUS",
+						"odds": 1.45
+					},
+					{
+						"outcome_name": "Laura Siegemund GER",
+						"odds": 2.7
+					}
+				]
+			},
+			{
+				"event_name": "Tamara Korpatsch GER v Jodie Burrage GBR",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Tamara Korpatsch GER",
+						"odds": 1.62
+					},
+					{
+						"outcome_name": "Jodie Burrage GBR",
+						"odds": 2.25
+					}
+				]
+			},
+			{
+				"event_name": "Mai Hontama JPN v Barbora Krejcikova CZE",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Mai Hontama JPN",
+						"odds": 4.4
+					},
+					{
+						"outcome_name": "Barbora Krejcikova CZE",
+						"odds": 1.2
+					}
+				]
+			},
+			{
+				"event_name": "Liudmila Samsonova RUS v Amanda Anisimova USA",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Liudmila Samsonova RUS",
+						"odds": 1.42
+					},
+					{
+						"outcome_name": "Amanda Anisimova USA",
+						"odds": 2.88
+					}
+				]
+			},
+			{
+				"event_name": "Nadia Podoroska ARG v Tamara Zidansek SLO",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Nadia Podoroska ARG",
+						"odds": 1.91
+					},
+					{
+						"outcome_name": "Tamara Zidansek SLO",
+						"odds": 1.85
+					}
+				]
+			},
+			{
+				"event_name": "Taylor Townsend USA v Paula Badosa ESP",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Taylor Townsend USA",
+						"odds": 2.7
+					},
+					{
+						"outcome_name": "Paula Badosa ESP",
+						"odds": 1.45
+					}
+				]
+			},
+			{
+				"event_name": "Anastasia Pavlyuchenkova RUS v Donna Vekic CRO",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Anastasia Pavlyuchenkova RUS",
+						"odds": 1.53
+					},
+					{
+						"outcome_name": "Donna Vekic CRO",
+						"odds": 2.45
+					}
+				]
+			},
+			{
+				"event_name": "Lesia Tsurenko UKR v Lucia Bronzetti ITA",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Lesia Tsurenko UKR",
+						"odds": 1.48
+					},
+					{
+						"outcome_name": "Lucia Bronzetti ITA",
+						"odds": 2.6
+					}
+				]
+			},
+			{
+				"event_name": "Rebeka Masarova ESP v Aliaksandra Sasnovich BLR",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Rebeka Masarova ESP",
+						"odds": 2.25
+					},
+					{
+						"outcome_name": "Aliaksandra Sasnovich BLR",
+						"odds": 1.62
+					}
+				]
+			},
+			{
+				"event_name": "Ella Seidel GER v Aryna Sabalenka BLR",
+				"start_time": "2024-01-13 23:00",
+				"outcomes": [
+					{
+						"outcome_name": "Ella Seidel GER",
+						"odds": 11
+					},
+					{
+						"outcome_name": "Aryna Sabalenka BLR",
+						"odds": 1.03
+					}
+				]
+			}
+		]
+	},
+	{
+		"tournament_name": "ATP Auckland (NZL) - Hard",
+		"last_fetched": "2024-01-12 12:39",
+		"events": [
+			{
+				"event_name": "Taro Daniel JPN v Alejandro Tabilo CHI",
+				"start_time": "2024-01-13 01:15",
+				"outcomes": [
+					{
+						"outcome_name": "Taro Daniel JPN",
+						"odds": 1.75
+					},
+					{
+						"outcome_name": "Alejandro Tabilo CHI",
+						"odds": 2.05
+					}
+				]
+			}
+		]
+	},
+	{
+		"tournament_name": "WTA Adelaide (AUS) - Hard",
+		"last_fetched": "2024-01-12 12:39",
+		"events": [
+			{
+				"event_name": "Jelena Ostapenko LAT v Daria Kasatkina RUS",
+				"start_time": "2024-01-13 07:45",
+				"outcomes": [
+					{
+						"outcome_name": "Jelena Ostapenko LAT",
+						"odds": 1.6
+					},
+					{
+						"outcome_name": "Daria Kasatkina RUS",
+						"odds": 2.3
+					}
+				]
+			}
+		]
+	},
+	{
+		"tournament_name": "WTA Hobart (AUS) - Hard",
+		"last_fetched": "2024-01-12 12:39",
+		"events": [
+			{
+				"event_name": "Elise Mertens BEL v Emma Navarro USA",
+				"start_time": "2024-01-13 02:15",
+				"outcomes": [
+					{
+						"outcome_name": "Elise Mertens BEL",
+						"odds": 1.75
+					},
+					{
+						"outcome_name": "Emma Navarro USA",
+						"odds": 2.05
+					}
+				]
+			}
+		]
+	},
+	{
+		"tournament_name": "ATP Challenger Buenos Aires (ARG) - Clay",
+		"last_fetched": "2024-01-12 12:39",
+		"events": [
+			{
+				"event_name": "Gonzalo Bueno PER v Max Houkes NED",
+				"start_time": "2024-01-12 15:15",
+				"outcomes": [
+					{
+						"outcome_name": "Gonzalo Bueno PER",
+						"odds": 2.05
+					},
+					{
+						"outcome_name": "Max Houkes NED",
+						"odds": 1.7
+					}
+				]
+			},
+			{
+				"event_name": "Tristan Boyer USA v Dmitry Popko KAZ",
+				"start_time": "2024-01-12 16:15",
+				"outcomes": [
+					{
+						"outcome_name": "Tristan Boyer USA",
+						"odds": 1.62
+					},
+					{
+						"outcome_name": "Dmitry Popko KAZ",
+						"odds": 2.15
+					}
+				]
+			},
+			{
+				"event_name": "Gianluca Mager ITA v Joao Fonseca BRA",
+				"start_time": "2024-01-12 17:15",
+				"outcomes": [
+					{
+						"outcome_name": "Gianluca Mager ITA",
+						"odds": 2.15
+					},
+					{
+						"outcome_name": "Joao Fonseca BRA",
+						"odds": 1.62
+					}
+				]
+			}
+		]
+	},
+	{
+		"tournament_name": "ATP Challenger Buenos Aires (ARG), Doubles - Clay",
+		"last_fetched": "2024-01-12 12:39",
+		"events": [
+			{
+				"event_name": "R. Olivo/N. Sanchez Izquierdo v M. Houkes/L. Neumayer",
+				"start_time": "2024-01-12 19:15",
+				"outcomes": [
+					{
+						"outcome_name": "R. Olivo/N. Sanchez Izquierdo",
+						"odds": 2.25
+					},
+					{
+						"outcome_name": "M. Houkes/L. Neumayer",
+						"odds": 1.55
+					}
+				]
+			}
+		]
+	},
+	{
+		"tournament_name": "ATP Challenger Nonthaburi (THA) - Hard",
+		"last_fetched": "2024-01-12 12:39",
+		"events": [
+			{
+				"event_name": "Valentin Vacherot MON v Manuel Guinard FRA",
+				"start_time": "2024-01-13 05:15",
+				"outcomes": [
+					{
+						"outcome_name": "Valentin Vacherot MON",
+						"odds": 1.57
+					},
+					{
+						"outcome_name": "Manuel Guinard FRA",
+						"odds": 2.25
+					}
+				]
+			}
+		]
+	},
+	{
+		"tournament_name": "ATP Challenger Oeiras (POR) - Hard",
+		"last_fetched": "2024-01-12 12:39",
+		"events": [
+			{
+				"event_name": "Leandro Riedi SUI v Gastao Elias POR",
+				"start_time": "2024-01-12 15:15",
+				"outcomes": [
+					{
+						"outcome_name": "Leandro Riedi SUI",
+						"odds": 1.5
+					},
+					{
+						"outcome_name": "Gastao Elias POR",
+						"odds": 2.4
+					}
+				]
+			}
+		]
+	},
+	{
+		"tournament_name": "ATP Challenger Oeiras (POR), Doubles - Hard",
+		"last_fetched": "2024-01-12 12:39",
+		"events": [
+			{
+				"event_name": "A. Kadhe/M. Willis v F. Bergevi/M. Veldheer",
+				"start_time": "2024-01-12 17:15",
+				"outcomes": [
+					{
+						"outcome_name": "A. Kadhe/M. Willis",
+						"odds": 1.9
+					},
+					{
+						"outcome_name": "F. Bergevi/M. Veldheer",
+						"odds": 1.8
+					}
+				]
+			}
+		]
+	},
+	{
+		"tournament_name": "ITF Men - Antalya (TUR) - Clay",
+		"last_fetched": "2024-01-12 12:39",
+		"events": []
+	},
+	{
+		"tournament_name": "ITF Men - Doha (QAT) - Hard",
+		"last_fetched": "2024-01-12 12:39",
+		"events": []
+	},
+	{
+		"tournament_name": "ITF Men - Loughborough (GBR) - Hard",
+		"last_fetched": "2024-01-12 12:39",
+		"events": [
+			{
+				"event_name": "Fausto Tabacco ITA v Kyle Edmund GBR",
+				"start_time": "2024-01-12 14:15",
+				"outcomes": [
+					{
+						"outcome_name": "Fausto Tabacco ITA",
+						"odds": 4
+					},
+					{
+						"outcome_name": "Kyle Edmund GBR",
+						"odds": 1.18
+					}
+				]
+			},
+			{
+				"event_name": "Anton Matusevich GBR v Martyn Pawelski POL",
+				"start_time": "2024-01-12 14:15",
+				"outcomes": [
+					{
+						"outcome_name": "Anton Matusevich GBR",
+						"odds": 1.27
+					},
+					{
+						"outcome_name": "Martyn Pawelski POL",
+						"odds": 3.4
+					}
+				]
+			}
+		]
+	},
+	{
+		"tournament_name": "ITF Men - Manacor (ESP) - Hard",
+		"last_fetched": "2024-01-12 12:39",
+		"events": []
+	},
+	{
+		"tournament_name": "ITF Women - Esch-sur-Alzette (LUX) - Hard",
+		"last_fetched": "2024-01-12 12:39",
+		"events": []
+	},
+	{
+		"tournament_name": "ITF Women - Fort-De-France (Martinique, FRA) - Hard",
+		"last_fetched": "2024-01-12 12:39",
+		"events": [
+			{
+				"event_name": "Vicky Van de Peer BEL v Astrid Lew Yan Foon FRA",
+				"start_time": "2024-01-12 13:45",
+				"outcomes": [
+					{
+						"outcome_name": "Vicky Van de Peer BEL",
+						"odds": 1.53
+					},
+					{
+						"outcome_name": "Astrid Lew Yan Foon FRA",
+						"odds": 2.3
+					}
+				]
+			},
+			{
+				"event_name": "Antonia Schmidt GER v Briana Szabo ROU",
+				"start_time": "2024-01-12 13:45",
+				"outcomes": [
+					{
+						"outcome_name": "Antonia Schmidt GER",
+						"odds": 1.2
+					},
+					{
+						"outcome_name": "Briana Szabo ROU",
+						"odds": 3.9
+					}
+				]
+			},
+			{
+				"event_name": "Yasmine Kabbaj MAR v Jaeda Daniel USA",
+				"start_time": "2024-01-12 15:45",
+				"outcomes": [
+					{
+						"outcome_name": "Yasmine Kabbaj MAR",
+						"odds": 1.33
+					},
+					{
+						"outcome_name": "Jaeda Daniel USA",
+						"odds": 2.9
+					}
+				]
+			},
+			{
+				"event_name": "Jenny Lim FRA v Pauline Payet FRA",
+				"start_time": "2024-01-12 15:45",
+				"outcomes": [
+					{
+						"outcome_name": "Jenny Lim FRA",
+						"odds": 1.4
+					},
+					{
+						"outcome_name": "Pauline Payet FRA",
+						"odds": 2.65
+					}
+				]
+			}
+		]
+	},
+	{
+		"tournament_name": "ITF Women - Loughborough (GBR) - Hard",
+		"last_fetched": "2024-01-12 12:39",
+		"events": []
+	},
+	{
+		"tournament_name": "ITF Women - Loughborough (GBR), Doubles - Hard",
+		"last_fetched": "2024-01-12 12:39",
+		"events": [
+			{
+				"event_name": "E. Malygina/B. Palicova v A. Barnett/S. B. Grey",
+				"start_time": "2024-01-12 14:15",
+				"outcomes": [
+					{
+						"outcome_name": "E. Malygina/B. Palicova",
+						"odds": 2.2
+					},
+					{
+						"outcome_name": "A. Barnett/S. B. Grey",
+						"odds": 1.55
+					}
+				]
+			},
+			{
+				"event_name": "L. Hovde/E. McDonald v J. Duerst/J. Gimbrere",
+				"start_time": "2024-01-12 16:15",
+				"outcomes": [
+					{
+						"outcome_name": "L. Hovde/E. McDonald",
+						"odds": 2.1
+					},
+					{
+						"outcome_name": "J. Duerst/J. Gimbrere",
+						"odds": 1.6
+					}
+				]
+			}
+		]
+	},
+	{
+		"tournament_name": "ITF Women - Naples (USA) - Clay",
+		"last_fetched": "2024-01-12 12:39",
+		"events": [
+			{
+				"event_name": "Allie Kiick USA v Marie Benoit BEL",
+				"start_time": "2024-01-12 16:15",
+				"outcomes": [
+					{
+						"outcome_name": "Allie Kiick USA",
+						"odds": 1.7
+					},
+					{
+						"outcome_name": "Marie Benoit BEL",
+						"odds": 2
+					}
+				]
+			},
+			{
+				"event_name": "Louisa Chirico USA v Ekaterine Gorgodze GEO",
+				"start_time": "2024-01-12 16:15",
+				"outcomes": [
+					{
+						"outcome_name": "Louisa Chirico USA",
+						"odds": 1.48
+					},
+					{
+						"outcome_name": "Ekaterine Gorgodze GEO",
+						"odds": 2.4
+					}
+				]
+			},
+			{
+				"event_name": "Varvara Lepchenko USA v Clervie Ngounoue USA",
+				"start_time": "2024-01-12 16:15",
+				"outcomes": [
+					{
+						"outcome_name": "Varvara Lepchenko USA",
+						"odds": 2.1
+					},
+					{
+						"outcome_name": "Clervie Ngounoue USA",
+						"odds": 1.62
+					}
+				]
+			},
+			{
+				"event_name": "Layne Sleeth CAN v Angella Okutoyi KEN",
+				"start_time": "2024-01-12 16:15",
+				"outcomes": [
+					{
+						"outcome_name": "Layne Sleeth CAN",
+						"odds": 2.05
+					},
+					{
+						"outcome_name": "Angella Okutoyi KEN",
+						"odds": 1.65
+					}
+				]
+			}
+		]
+	},
+	{
+		"tournament_name": "ITF Women - Naples (USA), Doubles - Clay",
+		"last_fetched": "2024-01-12 12:39",
+		"events": [
+			{
+				"event_name": "M. Benoit/L. Kung v M. Kononova/R. McAdoo",
+				"start_time": "2024-01-12 18:15",
+				"outcomes": [
+					{
+						"outcome_name": "M. Benoit/L. Kung",
+						"odds": 1.62
+					},
+					{
+						"outcome_name": "M. Kononova/R. McAdoo",
+						"odds": 2.05
+					}
+				]
+			},
+			{
+				"event_name": "C. Ansari/A. Okutoyi v M. Aikawa/C.-Y. Hsu",
+				"start_time": "2024-01-12 18:15",
+				"outcomes": [
+					{
+						"outcome_name": "C. Ansari/A. Okutoyi",
+						"odds": 1.8
+					},
+					{
+						"outcome_name": "M. Aikawa/C.-Y. Hsu",
+						"odds": 1.87
+					}
+				]
+			}
+		]
+	},
+	{
+		"tournament_name": "ITF Women - Nonthaburi (THA) - Hard",
+		"last_fetched": "2024-01-12 12:39",
+		"events": [
+			{
+				"event_name": "Sayaka Ishii JPN v Mananchaya Sawangkaew THA",
+				"start_time": "2024-01-13 03:15",
+				"outcomes": [
+					{
+						"outcome_name": "Sayaka Ishii JPN",
+						"odds": 1.5
+					},
+					{
+						"outcome_name": "Mananchaya Sawangkaew THA",
+						"odds": 2.35
+					}
+				]
+			},
+			{
+				"event_name": "Sara Saito JPN v Antonia Ruzic CRO",
+				"start_time": "2024-01-13 03:15",
+				"outcomes": [
+					{
+						"outcome_name": "Sara Saito JPN",
+						"odds": 2.9
+					},
+					{
+						"outcome_name": "Antonia Ruzic CRO",
+						"odds": 1.33
+					}
+				]
+			}
+		]
+	},
+	{
+		"tournament_name": "ITF Women - Nonthaburi (THA), Doubles - Hard",
+		"last_fetched": "2024-01-12 12:39",
+		"events": [
+			{
+				"event_name": "A. Siskova/K. Zaytseva v M. Chwalinska/Y. Naito",
+				"start_time": "2024-01-13 06:15",
+				"outcomes": [
+					{
+						"outcome_name": "A. Siskova/K. Zaytseva",
+						"odds": 1.8
+					},
+					{
+						"outcome_name": "M. Chwalinska/Y. Naito",
+						"odds": 1.83
+					}
+				]
+			}
+		]
+	}
+]
