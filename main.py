@@ -1,47 +1,58 @@
+# selenium imports
 from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
-from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException, StaleElementReferenceException
+from selenium.webdriver.support.ui import WebDriverWait
+# rest of imports
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 from fractions import Fraction
-import json
-import time
-import logging
+import json, logging, time
+
+#selenium logging
+selenium_logger = logging.getLogger('selenium')
+selenium_logger.setLevel(logging.ERROR)
+
+#custom logging
+logging.basicConfig(level=logging.INFO)
 
 chrome_options = webdriver.ChromeOptions()
-# chrome_options.add_argument("--headless")
+chrome_options.add_argument("--headless")
 chrome_options.add_argument("--disable-notifications")
 chrome_options.add_argument("--disable-extensions")
-chrome_options.add_argument("--log-level=3")
 chrome_options.add_argument("--enable-javascript")
+chrome_options.add_argument("log-level=3")
 chrome_options.add_experimental_option(
     "prefs", {'profile.managed_default_content_settings.images': 2}
 )
 
-def sports_betting_data_retrieval():
-    extracted_data = []  # List to store extracted data
+# Global Variables
+now = datetime.utcnow()
+# init list
+extracted_data = []  
 
+def sports_betting_data_retrieval():
+    
+    logging.info("Retrieving sports betting data...")
     driver = webdriver.Chrome(options=chrome_options)
     driver.get("https://sports.bwin.com/en/sports/tennis-5/betting")
-
+    logging.info("Accruing page location...")
+    ### wait block ###
+    time.sleep(2)
     # Wait for the main content to load
-    WebDriverWait(driver, 15).until(
+    WebDriverWait(driver, 20).until(
         EC.presence_of_element_located((By.TAG_NAME, "ms-grid-header"))
     ).click()
-    print("Accruing page location...")
     time.sleep(2)
     actions = ActionChains(driver)
     actions.send_keys(Keys.END).perform()
-    WebDriverWait(driver, 15).until(
+    WebDriverWait(driver, 20).until(
         EC.presence_of_element_located((By.TAG_NAME, "footer"))
     )
     actions.send_keys(Keys.HOME).perform()
-    WebDriverWait(driver, 15).until(
+    WebDriverWait(driver, 20).until(
         EC.presence_of_element_located((By.TAG_NAME, "ms-grid-header"))
     ).click
     actions.send_keys(Keys.END).perform()
@@ -52,10 +63,9 @@ def sports_betting_data_retrieval():
 
     for tournament in tennis_tournaments:
         tournament_name = tournament.find("div", class_="title").text
-        timestamp = datetime.utcnow()
         tournament_data = {
             "tournament_name": tournament_name,
-            "last_fetched": timestamp.strftime("%Y-%m-%d %H:%M"),
+            "last_fetched": now.strftime("%Y-%m-%d %H:%M"),
             "events": []
         }
 
@@ -64,34 +74,39 @@ def sports_betting_data_retrieval():
 
         for event in tennis_events:
             time.sleep(0.5)
-
+            # get player data
             participant_elements = event.find_all("div", class_="participant")
+            # get time/date data
             date_time_element = event.find(
                 "ms-prematch-timer", class_="starting-time")
 
+            
+          
+            
             if date_time_element:
                 start_date_time_str = date_time_element.text.strip()
-
+                # declare time string   
+                time_str = start_date_time_str.split()[-2] + " " + start_date_time_str.split()[-1]
+                # Covert Today time/date
                 if 'Today' in start_date_time_str:
-                    # Extract time only
-                    time_str = start_date_time_str.split(
-                    )[-2] + " " + start_date_time_str.split()[-1]
-                    start_date_time = datetime.now().strftime('%Y-%m-%d ') + \
+                    start_date_time = now.strftime('%Y-%m-%d ') + \
                         datetime.strptime(
                             time_str, '%I:%M %p').strftime('%H:%M')
-
+                # Covert Tomorrow time/date
                 elif 'Tomorrow' in start_date_time_str:
-                    # Extract time only
-                    time_str = start_date_time_str.split(
-                    )[-2] + " " + start_date_time_str.split()[-1]
-                    start_date_time = (datetime.now() + timedelta(days=1)).strftime(
+                    start_date_time = (now + timedelta(days=1)).strftime(
                         '%Y-%m-%d ') + datetime.strptime(time_str, '%I:%M %p').strftime('%H:%M')
-
+                # Rest of Time/Date conversions
+                elif '/' in start_date_time_str:
+                    start_date_time_obj = datetime.strptime(start_date_time_str, '%m/%d/%y %I:%M %p')
+                    time_str = start_date_time_obj.strftime('%Y-%m-%d %H:%M')
+                    start_date_time = time_str
+                    logging.info(start_date_time)
                 else:
-                    print(f"Unsupported date format: {start_date_time_str}")
+                    logging.info("Date not found")
                     continue
             else:
-                print("Match Past or in play - No odds to fetch")
+                logging.info("Match Past or in play - No odds to fetch")
                 continue
 
             # Check if the participant element was found
@@ -100,7 +115,7 @@ def sports_betting_data_retrieval():
                 player_b_name = participant_elements[1].text.strip()
                 print("Match:", player_a_name, " v ", player_b_name)
             else:
-                print("Participant element not found.")
+                logging.info("Participant element not found.")
                 continue
 
             odds_elements = event.find_all("ms-font-resizer")
@@ -134,8 +149,8 @@ def sports_betting_data_retrieval():
 
     return extracted_data
 
-# Call the function and print the result
+# Call the function and logging.info the result
 extracted_data = sports_betting_data_retrieval()
-print("Exporting json file...")
+logging.info("Exporting json file...")
 with open('tennis_data.json', 'w') as f:
     json.dump(extracted_data, f)
