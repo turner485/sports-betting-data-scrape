@@ -33,6 +33,7 @@ To run the script, execute the following command:
 
 ## Notes
 - The script utilizes Selenium for dynamic interactions, ensuring that the necessary content is loaded before data retrieval.
+- for any matches in play the data will **NOT** be fetched.
 - For testing purposes, the script has been verified on both Windows and Ubuntu (Linux) environments.
 - The virtual environment is managed using pipenv for a clean and isolated development environment.
 - additional setup instructions may be required based on your operating system and environment.
