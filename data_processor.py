@@ -71,8 +71,6 @@ def process_event_data(event, participant_elements, date_time_element):
                 }
                 return event_data
     else:
-        logging.info(
-            "Participant elements not found or incomplete. Skipping event.")
         return None
 
 def process_tournament_data(tournament):
