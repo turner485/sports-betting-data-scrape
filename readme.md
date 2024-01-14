@@ -16,7 +16,7 @@ This script is designed to retrieve sports betting data from a dynamic website u
 
 1. Ensure you have Python 3.x installed on your system.
 
-2. Install pipenv using the following command:
+2. Install pipenv and setup pipenv using the following commands:
 
    ```
    cd outplayed_tech_test
@@ -47,3 +47,9 @@ To run the script, execute the following command:
 - For testing purposes, the script has been verified on both Windows and Ubuntu (Linux) environments.
 - The virtual environment is managed using pipenv for a clean and isolated development environment.
 - Due to time constraints, thorough unit tests and pytests have not been implemented.
+
+## Additional Documentation
+- [pipenv](https://pipenv.pypa.io/en/latest/)
+- [Selenium](https://www.selenium.dev/documentation/overview/)
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [alive progress](https://pypi.org/project/alive-progress/)
