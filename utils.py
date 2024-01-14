@@ -16,7 +16,7 @@ def configure_logging():
 
 def initialize_webdriver():
     chrome_options = webdriver.ChromeOptions()
-    # chrome_options.add_argument("--headless")
+    chrome_options.add_argument("--headless")
     chrome_options.add_argument("--disable-notifications")
     chrome_options.add_argument("--disable-extensions")
     chrome_options.add_argument("--enable-javascript")
