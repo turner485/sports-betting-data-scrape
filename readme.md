@@ -2,7 +2,7 @@
 
 ## Overview
 
-This script is designed to retrieve sports betting data from a dynamic website using BeautifulSoup and Selenium. The script has been tested on both Windows and Ubuntu (Linux) environments.
+This script is designed to retrieve sports betting data from a dynamic website using BeautifulSoup and Selenium. The script has been tested on both Windows10 and Ubuntu 22.04.3 (Linux) environments.
 
 ## Dependencies
 
@@ -20,9 +20,19 @@ This script is designed to retrieve sports betting data from a dynamic website u
    ```
    cd outplayed_tech_test
    pip install pipenv
+   pipenv --python path/to/python *
    pipenv install
    pipenv shell
    ```
+
+*if you are not on the same pipenv version you may encounter this message.
+
+```Warning: your pipfile requires python_version 3.9, but you are usng 3.x.x
+pipenv --rm and rebuilding the virtual environment may resolve the issue.
+pipenv check will surely fail.
+```
+
+this is fine, you should be able to continue with the set up commands, i have tested this numerous times.
 
 ## Running the script
 The script retrieves sports betting data from a dynamic website. It uses Selenium to gain control and scroll the site, allowing the DOM to load. This is necessary because the site's content is dynamic and may not be fully loaded when initially accessed.
