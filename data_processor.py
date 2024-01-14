@@ -5,12 +5,6 @@ import logging
 import time
 import re
 
-# data_processor.py
-from datetime import datetime, timedelta
-from fractions import Fraction
-import logging
-import re
-
 def convert_start_time(start_time_str):
     if start_time_str:
         # Extract the minutes using regular expression
@@ -44,7 +38,6 @@ def convert_start_time(start_time_str):
 
     logging.info("Date not found or match is past/in play - No odds to fetch")
     return None
-
 
 def process_event_data(event, participant_elements, date_time_element):
     if participant_elements and len(participant_elements) == 2:
@@ -81,7 +74,6 @@ def process_event_data(event, participant_elements, date_time_element):
         logging.info(
             "Participant elements not found or incomplete. Skipping event.")
         return None
-
 
 def process_tournament_data(tournament):
     tournament_name = tournament.find("div", class_="title").text

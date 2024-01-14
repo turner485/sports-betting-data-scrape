@@ -8,12 +8,12 @@ from selenium import webdriver
 import logging
 
 WAIT_TIME = 20
-
+# config selenium logging to remove unwanted logs when selenium is headless
 def configure_logging():
     selenium_logger = logging.getLogger('selenium')
     selenium_logger.setLevel(logging.ERROR)
     logging.basicConfig(level=logging.INFO)
-
+# config selenium options 
 def initialize_webdriver():
     chrome_options = webdriver.ChromeOptions()
     chrome_options.add_argument("--headless")
@@ -26,7 +26,7 @@ def initialize_webdriver():
     )
 
     return webdriver.Chrome(options=chrome_options)
-
+# wait function
 def wait_for_element(driver, by, value):
     return WebDriverWait(driver, WAIT_TIME).until(
         EC.presence_of_element_located((by, value))
