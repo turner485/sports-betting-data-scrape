@@ -7,9 +7,10 @@ This script is designed to retrieve sports betting data from a dynamic website u
 ## Dependencies
 
 - Python 3.x
-- [pipenv](https://pipenv.pypa.io/en/latest/) for virtual environment management
-- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) for HTML parsing
-- [Selenium](https://www.selenium.dev/) for dynamic web page interaction
+- [pipenv](https://pipenv.pypa.io/en/latest/) for virtual environment management.
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) for HTML parsing.
+- [Selenium](https://www.selenium.dev/) for dynamic web page interaction.
+- [Google Chrome](https://www.google.com/intl/en_uk/chrome/browser-tools/?_gl=1*b0ovt2*_up*MQ..*_ga*MTAzOTE2MzM1My4xNzA1MjU5MzM5*_ga_B7W0ZKZYDK*MTcwNTI1OTMzOC4xLjAuMTcwNTI1OTM1MC4wLjAuMA..&gclid=CjwKCAiAqY6tBhAtEiwAHeRopbrRW3QFlBXTHSozKXJINd8KFbsHH1JAMqOgTfOORcG6cvZ3PRJk1hoCWFAQAvD_BwE&gclsrc=aw.ds) for the script to run.
 
 ## Setup
 
@@ -27,7 +28,7 @@ This script is designed to retrieve sports betting data from a dynamic website u
 
 *if you are not on the same python version that pipenv id requiring (3.9) you may encounter this message.
 
-```Warning: your pipfile requires python_version 3.9, but you are usng 3.x.x
+```Warning: your pipfile requires python_version 3.9, but you are using 3.x.x
 ```
 
 this is fine, you should be able to continue with the set up commands, i have tested this numerous times.
@@ -45,5 +46,4 @@ To run the script, execute the following command:
 - for any matches in play the data will **NOT** be fetched.
 - For testing purposes, the script has been verified on both Windows and Ubuntu (Linux) environments.
 - The virtual environment is managed using pipenv for a clean and isolated development environment.
-- additional setup instructions may be required based on your operating system and environment.
-- due to time constraints i didn't have time to do my regular unittests & pytests. 
+- Due to time constraints, thorough unit tests and pytests have not been implemented.
