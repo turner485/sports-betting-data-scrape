@@ -25,11 +25,9 @@ This script is designed to retrieve sports betting data from a dynamic website u
    pipenv shell
    ```
 
-*if you are not on the same pipenv version you may encounter this message.
+*if you are not on the same python version that pipenv id requiring (3.9) you may encounter this message.
 
 ```Warning: your pipfile requires python_version 3.9, but you are usng 3.x.x
-pipenv --rm and rebuilding the virtual environment may resolve the issue.
-pipenv check will surely fail.
 ```
 
 this is fine, you should be able to continue with the set up commands, i have tested this numerous times.
